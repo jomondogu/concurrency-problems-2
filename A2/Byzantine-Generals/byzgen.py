@@ -1,3 +1,5 @@
+#Implements Byzantine Generals algorithm (oral messages) from https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Byzantine-Generals-Problem.pdf
+
 import sys
 import time
 import Queue
